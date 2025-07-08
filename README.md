@@ -18,3 +18,5 @@ The main test class is `TestClass.java` - just run it to see the system in actio
 - `models/` - Book classes (Book, PaperBook, EBook, ShowcaseBook)
 - `services/` - Business logic (InventoryService, ShippingService, MailService)
 - `interfaces/` - Buyable interface for purchasable items
+
+![alt text](image.png)
